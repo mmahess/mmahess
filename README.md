@@ -10,12 +10,12 @@ Saya senang merancang alur pengalaman pengguna yang nyaman dan mendesain rancang
 
 Berikut adalah fokus keahlian yang saat ini sedang saya pelajari secara konsisten:
 
-#### ðŸŽ¨ Desain & UI/UX
+#### Desain & UI/UX
 - Pembuatan Wireframe & Prototyping
 - Desain Antarmuka dengan Figma
 - Hirarki Visual & Tata Letak Responsif
 
-#### ðŸ’» Analisis Sistem & Pemrograman
+#### Analisis Sistem & Pemrograman
 - Pembuatan Flowchart & Analisis Kebutuhan Sistem
 - Dasar Pemrograman Web (HTML5 & CSS3)
 - Logika Pemrograman Dasar (JavaScript)
